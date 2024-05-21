@@ -7,7 +7,7 @@ The objective of this project is to calculate the following measures that could 
 # Number of Male in organization
 # Number of Female in organization
 # Number of leavers
-﻿# Current Employees
+﻿**Current Employees**
 # % of men hired
 # % of women hired
 # % of women promoted
